@@ -1,1 +1,1 @@
-# landing-page
+This project is a landing page using HTML and CSS to the desired-outcome, using the colors-and-font-styles #landing-page
