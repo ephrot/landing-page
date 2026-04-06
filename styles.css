@@ -23,6 +23,12 @@ h1 {
     font-weight: 900;
 }
 
+.hero-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
 .hero-container p,
 .right-links {
     font-size: 18px;
@@ -60,6 +66,11 @@ button {
     font-size: 36px;
     color: #1f2937;
     font-weight: 900;
+
+}
+
+.info {
+    display: flex;
 }
 
 em {
