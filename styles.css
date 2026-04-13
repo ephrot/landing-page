@@ -155,12 +155,6 @@ a {
     justify-content: center;
 }
 
-.footer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 .subtext {
     display: flex;
     justify-content: center;
@@ -176,4 +170,10 @@ a {
     text-align: center;
     font-size: 16px;
     padding: 0px 16px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
